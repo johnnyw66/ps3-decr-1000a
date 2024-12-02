@@ -15,3 +15,5 @@ Username: Administrator, Password: Administrator
 
 
 
+### Note: ONE OF THE USB PORTS IS PHYSICALLY BROKEN
+
